@@ -1,0 +1,5 @@
+После git clone
+
+Git add -A
+Git commit -am
+git push -u origin
