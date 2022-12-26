@@ -3,3 +3,5 @@
 Git add -A
 Git commit -am
 git push -u origin
+
+Проект с изменениями опубликуется у меня в репозитории.
